@@ -1,9 +1,16 @@
-body {
+
+.cajas-colores {
     display: flex;
     flex-flow: row wrap;
     gap: 20px;
 }
-
 #ele1 {
     width: 50%;
+}
+
+.pagina-inicio {
+    display: flex;
+    flex-flow: column;
+    gap: 20px;
+
 }
